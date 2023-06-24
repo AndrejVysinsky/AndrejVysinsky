@@ -37,7 +37,7 @@ QR Game is a web application made with ASP.NET Core MVC. Tha main purpose of thi
 [blockBreakerGooglePlay]: https://play.google.com/store/apps/details?id=com.RndBeans.BreakaBlock
 [blockBreakerRepo]: https://github.com/AndrejVysinsky/block-breaker
 
-[metin2MiningBotYoutube]: https://www.youtube.com/watch?v=fWP_FODGIIs
+[metin2MiningBotYoutube]: https://www.youtube.com/watch?v=sbimrn6YZeY
 [metin2MiningBotRepo]: https://github.com/AndrejVysinsky/metin2-miner-readme
 
 [qrgameWebsite]: https://frivia.uniza.sk/
