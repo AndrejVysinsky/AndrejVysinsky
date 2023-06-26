@@ -6,10 +6,8 @@
 
 Simple block breaking game made with Unity. Main goal of the game is to destroy all blocks while having at least 1 ball on screen. Blocks have a chance to drop random power up with varying effects.
 
-[<img align="left" alt="Break a Block Google Play" height="32px" src="https://github.com/AndrejVysinsky/AndrejVysinsky/blob/master/Assets/Images/google_play_icon.png?raw=true"/>][blockBreakerGooglePlay]
-[<img align="left" alt="Break a Block Repository" height="32px" src="https://github.com/AndrejVysinsky/AndrejVysinsky/blob/master/Assets/Images/repository_icon.png?raw=true"/>][blockBreakerRepo]
-
-
+[<img align="left" alt="Break a Block Google Play" height="28px" src="https://github.com/AndrejVysinsky/AndrejVysinsky/blob/master/Assets/Images/google_play_icon.png?raw=true"/>][blockBreakerGooglePlay]
+[<img align="left" alt="Break a Block Repository" height="28px" src="https://github.com/AndrejVysinsky/AndrejVysinsky/blob/master/Assets/Images/repository_icon.png?raw=true"/>][blockBreakerRepo]
 
 <br />
 <br />
@@ -18,8 +16,18 @@ Simple block breaking game made with Unity. Main goal of the game is to destroy 
 
 Application for automation of mining resources in MMORPG Metin2. Built using using .NET desktop and EmguCV library.
 
-[<img align="left" alt="Metin2 Mining Bot Youtube" height="32px" src="https://github.com/AndrejVysinsky/AndrejVysinsky/blob/master/Assets/Images/youtube_icon.png?raw=true"/>][metin2MiningBotYoutube]
-[<img align="left" alt="Metin2 Mining Bot Repository" height="32px" src="https://github.com/AndrejVysinsky/AndrejVysinsky/blob/master/Assets/Images/repository_icon.png?raw=true"/>][metin2MiningBotRepo]
+[<img align="left" alt="Metin2 Mining Bot Youtube" height="27px" src="https://github.com/AndrejVysinsky/AndrejVysinsky/blob/master/Assets/Images/youtube_icon.png?raw=true"/>][metin2MiningBotYoutube]
+[<img align="left" alt="Metin2 Mining Bot Repository" height="28px" src="https://github.com/AndrejVysinsky/AndrejVysinsky/blob/master/Assets/Images/repository_icon.png?raw=true"/>][metin2MiningBotRepo]
+
+<br />
+<br />
+
+### Metin2 Stone Bot
+
+Application for automation of finding and destroing metin stones in MMORPG Metin2. Built using using .NET desktop and EmguCV library.
+
+[<img align="left" alt="Metin2 Stone Bot Youtube" height="27px" src="https://github.com/AndrejVysinsky/AndrejVysinsky/blob/master/Assets/Images/youtube_icon.png?raw=true"/>][metin2StoneBotYoutube]
+[<img align="left" alt="Metin2 Stone Bot Repository" height="28px" src="https://github.com/AndrejVysinsky/AndrejVysinsky/blob/master/Assets/Images/repository_icon.png?raw=true"/>][metin2StoneBotRepo]
 
 <br />
 <br />
@@ -30,8 +38,8 @@ Application for automation of mining resources in MMORPG Metin2. Built using usi
 
 QR Game is a web application made with ASP.NET Core MVC. Tha main purpose of this application is creation and participation in treasure hunt like quiz game based on scanning QR codes.
 
-[<img align="left" alt="QR Game Website" height="32px" src="https://github.com/AndrejVysinsky/AndrejVysinsky/blob/master/Assets/Images/url_icon.png?raw=true"/>][qrgameWebsite]
-[<img align="left" alt="QR Game Repository" height="32px" src="https://github.com/AndrejVysinsky/AndrejVysinsky/blob/master/Assets/Images/repository_icon.png?raw=true"/>][qrgameRepo]
+[<img align="left" alt="QR Game Website" height="28px" src="https://github.com/AndrejVysinsky/AndrejVysinsky/blob/master/Assets/Images/url_icon.png?raw=true"/>][qrgameWebsite]
+[<img align="left" alt="QR Game Repository" height="28px" src="https://github.com/AndrejVysinsky/AndrejVysinsky/blob/master/Assets/Images/repository_icon.png?raw=true"/>][qrgameRepo]
 
 
 [blockBreakerGooglePlay]: https://play.google.com/store/apps/details?id=com.RndBeans.BreakaBlock
@@ -39,6 +47,9 @@ QR Game is a web application made with ASP.NET Core MVC. Tha main purpose of thi
 
 [metin2MiningBotYoutube]: https://www.youtube.com/watch?v=sbimrn6YZeY
 [metin2MiningBotRepo]: https://github.com/AndrejVysinsky/metin2-miner-readme
+
+[metin2StoneBotYoutube]: https://www.youtube.com/watch?v=nYjPW6Mf3tA
+[metin2StoneBotRepo]: https://github.com/AndrejVysinsky/metin2-stone-bot-readme
 
 [qrgameWebsite]: https://frivia.uniza.sk/
 [qrgameRepo]: https://github.com/AndrejVysinsky/qr-game
