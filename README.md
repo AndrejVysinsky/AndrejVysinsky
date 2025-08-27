@@ -12,26 +12,6 @@ Simple block breaking game made with Unity. Main goal of the game is to destroy 
 <br />
 <br />
 
-### Metin2 Mining Bot
-
-Application for automation of mining resources in MMORPG Metin2. Built using using .NET desktop and EmguCV library.
-
-[<img align="left" alt="Metin2 Mining Bot Youtube" height="27px" src="https://github.com/AndrejVysinsky/AndrejVysinsky/blob/master/Assets/Images/youtube_icon.png?raw=true"/>][metin2MiningBotYoutube]
-[<img align="left" alt="Metin2 Mining Bot Repository" height="29px" src="https://github.com/AndrejVysinsky/AndrejVysinsky/blob/master/Assets/Images/repository_icon.png?raw=true"/>][metin2MiningBotRepo]
-
-<br />
-<br />
-
-### Metin2 Stone Bot
-
-Application for automation of finding and destroing metin stones in MMORPG Metin2. Built using using .NET desktop and EmguCV library.
-
-[<img align="left" alt="Metin2 Stone Bot Youtube" height="27px" src="https://github.com/AndrejVysinsky/AndrejVysinsky/blob/master/Assets/Images/youtube_icon.png?raw=true"/>][metin2StoneBotYoutube]
-[<img align="left" alt="Metin2 Stone Bot Repository" height="29px" src="https://github.com/AndrejVysinsky/AndrejVysinsky/blob/master/Assets/Images/repository_icon.png?raw=true"/>][metin2StoneBotRepo]
-
-<br />
-<br />
-
 ## Web development :globe_with_meridians:
 
 ### QR Game
